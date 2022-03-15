@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc2f085A994674b8f10Ca1Cd9925D30F72A2691aC",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xc2f085a994674b8f10ca1cd9925d30f72a2691ac",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "HANDS OFF UKRAINE",
+  "SYMBOL": "HOU",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
